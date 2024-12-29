@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\Desiciones\obj\Debug\net9.0\Desiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Desiciones\obj\Debug\net9.0\Desiciones.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Desiciones\obj\Debug\net9.0\Desiciones.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Desiciones\obj\Debug\net9.0\Desiciones.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Desiciones\bin\Debug\net9.0\Desiciones.exe
+C:\Users\gabri\OneDrive\Desktop\Desiciones\bin\Debug\net9.0\Desiciones.deps.json
+C:\Users\gabri\OneDrive\Desktop\Desiciones\bin\Debug\net9.0\Desiciones.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Desiciones\bin\Debug\net9.0\Desiciones.dll
+C:\Users\gabri\OneDrive\Desktop\Desiciones\bin\Debug\net9.0\Desiciones.pdb
+C:\Users\gabri\OneDrive\Desktop\Desiciones\obj\Debug\net9.0\Desiciones.dll
+C:\Users\gabri\OneDrive\Desktop\Desiciones\obj\Debug\net9.0\refint\Desiciones.dll
+C:\Users\gabri\OneDrive\Desktop\Desiciones\obj\Debug\net9.0\Desiciones.pdb
+C:\Users\gabri\OneDrive\Desktop\Desiciones\obj\Debug\net9.0\Desiciones.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Desiciones\obj\Debug\net9.0\ref\Desiciones.dll
